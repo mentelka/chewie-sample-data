@@ -5,7 +5,7 @@ service: 'Batman Ipsum'
 
 <%- @partial("batmanipsum_raml") %>
 
-<h3>Death does not wait for you to be ready! </h3>
+<h3>Death does not wait for you to be ready! No way!</h3>
 
 Death is not considerate of fair! And make no mistake, here you face death. Tiger. Jujitsu. Panther. You're skilled. But this is not a dance. And you are afraid. But not of me. Tell us Mr. Wayne, what do you fear?
 
